@@ -5,5 +5,3 @@ token.pkl
 __pycache__/
 venv/
 token.json
-*.pyc
-.gitignore
