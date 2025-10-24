@@ -5,3 +5,4 @@ __pycache__/
 venv/
 token.json
 *.pyc
+.gitignore
